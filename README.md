@@ -1,6 +1,6 @@
 # SmartBoard
 Code for smart extension board
-
+DO NOT FORGET TO IMPORT THE ESP8266 library.
 Components required - 
 - 1 X NodeMCU esp8266
 - 1 X 4 channel relay module
